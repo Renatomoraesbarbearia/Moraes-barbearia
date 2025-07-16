@@ -106,7 +106,7 @@
 <section id="agendamento">
   <h2>Agende seu Horário</h2>
   <p>Evite filas e ganhe tempo! Faça seu agendamento com apenas alguns cliques:</p>
-  <a class="button" href="https://wa.me/5591XXXXXXXX" target="_blank">Agendar pelo WhatsApp</a>
+  <a class="button" href="https://wa.me/5591985470203" target="_blank">Agendar pelo WhatsApp</a>
 </section>
 
 <section id="diferenciais">
