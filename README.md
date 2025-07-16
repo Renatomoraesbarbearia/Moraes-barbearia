@@ -1,75 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Moraes Barbearia - Belém/PA</title>
-  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Barlow', sans-serif;
-      background-color: #f5f5f5;
-      color: #222;
-    }
-    header {
-      background-color: #111;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    nav {
-      background-color: #222;
-      padding: 10px;
-      text-align: center;
-    }
-    nav a {
-      color: #fff;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    section {
-      padding: 40px 20px;
-      max-width: 1000px;
-      margin: auto;
-    }
-    .services, .gallery, .testimonials {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      justify-content: center;
-    }
-    .card {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 6px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
-      flex: 1 1 300px;
-    }
-    footer {
-      background-color: #111;
-      color: #fff;
-      text-align: center;
-      padding: 30px 10px;
-    }
-    h2 {
-      border-left: 5px solid #c9a846;
-      padding-left: 10px;
-      margin-bottom: 20px;
-    }
-    .button {
-      background-color: #c9a846;
-      color: #fff;
-      padding: 12px 20px;
-      border: none;
-      text-decoration: none;
-      font-weight: bold;
-      border-radius: 5px;
-      display: inline-block;
-      margin-top: 10px;
-    }
-  </style>
+
 </head>
 <body>
 
@@ -142,8 +71,8 @@
 <section id="contato">
   <h2>Contato</h2>
   <p>📍 Rua Exemplo, nº 123 – Sacramenta – Belém/PA</p>
-  <p>📞 (91) 9XXXX-XXXX</p>
-  <p>📱 Instagram: <a href="https://instagram.com/moraesbarbearia" target="_blank">@moraesbarbearia</a></p>
+  <p>📞 (91) 985470203
+  <p>📱 Instagram moraesbarbeariabelem href="target= https://www.instagram.com/moraesbarbeariabelem?igsh=c3Qzb2U2dzBjNXhq&utm_source=qr
   <p>📧 moraesbarbearia@gmail.com</p>
 </section>
 
